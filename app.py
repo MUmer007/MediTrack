@@ -70,7 +70,7 @@ body {
 # --- HEADER
 st.markdown("""
 <div class="header-bar">
-    <img src='static/Blue-Modern-Medical-Care-Logo.jpg' width='75'>
+    <img src='/static/logo.png' width='75'>
     <h1 style='margin-bottom:7px;font-size:2em;'>MediTrack Health</h1>
     <div style='font-size:1.08em;margin-top:-7px;'>
         <span style="background:#FFD700;color:#23296d;border-radius:10px;padding:7px 24px;margin:0 6px;font-weight:700;letter-spacing:1.2px;">AI Patient Risk</span>
